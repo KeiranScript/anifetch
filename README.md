@@ -1,1 +1,1 @@
-#Anifetch, Neofetch clone in Bash
+# Anifetch, Neofetch clone in Bash
